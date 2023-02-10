@@ -11,10 +11,3 @@
 <span><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></span>
 
 ![Snake animation](https://github.com/Guilherme-K-Santos/Guilherme-K-Santos/blob/output/github-contribution-grid-snake.svg)
-
-<style>
-  span {
-    vertical-align: middle;
-    border: 1px solid red;
-  }
-</style>
