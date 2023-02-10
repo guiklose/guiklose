@@ -1,6 +1,6 @@
 - Hey, Welcome to my profile!
 
-<div style="align: center">
+<div style="margin: 0 auto">
 <span><img src="https://github-readme-stats.vercel.app/api?username=Guilherme-K-Santos&show_icons=true&theme=radical"></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-K-Santos&layout=demo&theme=radical"></span>
 </div>
