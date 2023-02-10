@@ -1,6 +1,6 @@
 - Hey, Welcome to my profile!
+<div>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-K-Santos&show_icons=true&theme=radical)</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-K-Santos&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-K-Santos&layout=demo&theme=radical)
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
