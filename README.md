@@ -17,5 +17,6 @@
 <style>
   div {
     vertical-align: middle;
+    border: 1px solid red;
   }
 </style>
