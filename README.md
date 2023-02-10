@@ -1,8 +1,9 @@
 - Hey, Welcome to my profile!
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guilherme-K-Santos&show_icons=true&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-K-Santos&layout=demo&theme=radical">
-
+<div style="allign: center">
+<span><img src="https://github-readme-stats.vercel.app/api?username=Guilherme-K-Santos&show_icons=true&theme=radical"></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-K-Santos&layout=demo&theme=radical"></span>
+</div>
 
 <span><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></span>
