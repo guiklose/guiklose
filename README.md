@@ -29,4 +29,4 @@ Software developer with 2 years of experience and a strong focus on fullstack de
 
 ### 🤝 Let's Connect
 
-- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/guilherme-k-santos)
+- LinkedIn: [linkedin.com/in/guilherme-k-santos](https://linkedin.com/in/guilherme-k-santos)
