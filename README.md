@@ -21,7 +21,7 @@ Software developer with 2 years of experience and a strong focus on fullstack de
 ---
 
 ### 🚀 What I'm Working On
-- 📱 Building multi-platform appications
+- 📱 Building multi-platform applications
 - 🤖 Exploring AI tools and backend automation
 - ⚙️ Designing scalable architectures in Django and Node.js
 
