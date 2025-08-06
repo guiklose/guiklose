@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Guilherme Focassio — Software Developer
+# 👋 Hey, I'm Guilherme Focassio — Software Engineer
 
-Software developer with 2 years of experience and a strong focus on fullstack development. Skilled in building APIs and multi-platform applications. Highly adaptable, with ability to quickly learn and integrate new technologies and development environments.
+Software Engineer with 2 years of experience and a strong focus on fullstack development. Skilled in building APIs and multi-platform applications. Highly adaptable, with ability to quickly learn and integrate new technologies and development environments.
 
 ---
 
