@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Guilherme Focassio — Software Engineer
 
-Software Engineer with 2 years of experience and a strong focus on fullstack development. Skilled in building APIs and multi-platform applications. Highly adaptable, with ability to quickly learn and integrate new technologies and development environments.
+Software Engineer with 3 years of experience and a strong focus on fullstack development. Skilled in building Embedded Systems, APIs and multi-platform applications. Highly adaptable, with ability to quickly learn and integrate new technologies and development environments.
 
 ---
 
@@ -23,7 +23,7 @@ Software Engineer with 2 years of experience and a strong focus on fullstack dev
 ### 🚀 What I'm Working On
 - 📱 Building multi-platform applications
 - 🤖 Exploring AI tools and backend automation
-- ⚙️ Designing scalable architectures in Django and Node.js
+- ⚙️ Designing scalable architectures in Django, Node.js on AWS
 
 ---
 
