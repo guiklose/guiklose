@@ -24,6 +24,7 @@ Software Engineer with 3 years of experience and a strong focus on fullstack dev
 - 📱 Building multi-platform applications
 - 🤖 Exploring AI tools and backend automation
 - ⚙️ Designing scalable architectures in Django, Node.js on AWS
+- 💻 Learning C++ and building Desktop applications for Linux, macOS and Windows
 
 ---
 
